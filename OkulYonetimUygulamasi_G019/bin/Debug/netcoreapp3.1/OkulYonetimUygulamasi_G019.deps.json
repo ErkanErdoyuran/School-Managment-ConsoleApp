@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OkulYonetimUygulamasi_G019/1.0.0": {
+        "runtime": {
+          "OkulYonetimUygulamasi_G019.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OkulYonetimUygulamasi_G019/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
